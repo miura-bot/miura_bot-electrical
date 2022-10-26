@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-footprints-Shem-Lib")(type "Legacy")(uri "${KIPRJMOD}/ESP32-Footprints/ESP32-footprints-Shem-Lib.lib")(options "")(descr ""))
 )
