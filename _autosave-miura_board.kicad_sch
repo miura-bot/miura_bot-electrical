@@ -1951,7 +1951,7 @@
   (symbol (lib_id "Device:C_Small") (at 64.77 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 018c1408-69a7-4438-8025-b18adb265847)
-    (property "Reference" "C?" (id 0) (at 67.0941 67.7516 0)
+    (property "Reference" "C23" (id 0) (at 67.0941 67.7516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (id 1) (at 67.0941 70.2885 0)
@@ -1986,7 +1986,7 @@
   (symbol (lib_id "power:GND") (at 64.77 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 07c002a7-300c-41aa-86e6-8fcffd0c0abf)
-    (property "Reference" "#PWR?" (id 0) (at 64.77 77.47 0)
+    (property "Reference" "#PWR0104" (id 0) (at 64.77 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 66.675 72.8238 0)
@@ -2053,7 +2053,7 @@
   (symbol (lib_id "power:GND") (at 147.32 71.12 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 11a0282c-2364-4c90-8834-ccce88592545)
-    (property "Reference" "#PWR?" (id 0) (at 147.32 77.47 0)
+    (property "Reference" "#PWR0116" (id 0) (at 147.32 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 147.32 74.93 90)
@@ -2147,7 +2147,7 @@
   (symbol (lib_id "power:GND") (at 218.44 114.3 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 18f9d82c-12a9-4f9a-ae4b-e6e3cce71393)
-    (property "Reference" "#PWR?" (id 0) (at 218.44 120.65 0)
+    (property "Reference" "#PWR0139" (id 0) (at 218.44 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 218.44 118.11 90)
@@ -2664,7 +2664,7 @@
   (symbol (lib_id "Device:C_Small") (at 147.32 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6e286bc1-43b6-456b-b3a5-af6e83f0e01a)
-    (property "Reference" "C?" (id 0) (at 149.6441 67.7516 0)
+    (property "Reference" "C24" (id 0) (at 149.6441 67.7516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (id 1) (at 149.6441 70.2885 0)
@@ -3345,7 +3345,7 @@
   (symbol (lib_id "Device:C_Small") (at 218.44 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cd5c2df4-e9ce-437e-adfa-53e9452b5bd9)
-    (property "Reference" "C?" (id 0) (at 220.7641 110.9316 0)
+    (property "Reference" "C25" (id 0) (at 220.7641 110.9316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (id 1) (at 220.7641 113.4685 0)
@@ -3592,6 +3592,9 @@
     (path "/b1001e84-5a3e-47a9-a1db-41f5f203c822"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
+    (path "/07c002a7-300c-41aa-86e6-8fcffd0c0abf"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
     (path "/9e8915db-19e2-42b4-9012-992ec98db144"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
@@ -3624,6 +3627,9 @@
     )
     (path "/2470466b-1548-4246-9463-73e80c257ae3"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/11a0282c-2364-4c90-8834-ccce88592545"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
     )
     (path "/61636e75-d6ce-474f-991e-bfd345f542d1"
       (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
@@ -3691,14 +3697,8 @@
     (path "/0da3809c-790b-43b8-b72a-a904f20de61e"
       (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
     )
-    (path "/07c002a7-300c-41aa-86e6-8fcffd0c0abf"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/11a0282c-2364-4c90-8834-ccce88592545"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/18f9d82c-12a9-4f9a-ae4b-e6e3cce71393"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0139") (unit 1) (value "GND") (footprint "")
     )
     (path "/4c630831-a484-4458-868e-601cdf4c800b"
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -3767,13 +3767,13 @@
       (reference "C22") (unit 1) (value "2.2uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/018c1408-69a7-4438-8025-b18adb265847"
-      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C23") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6e286bc1-43b6-456b-b3a5-af6e83f0e01a"
-      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C24") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/cd5c2df4-e9ce-437e-adfa-53e9452b5bd9"
-      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C25") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/773333eb-e560-4953-905f-ee8d319272b9"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
