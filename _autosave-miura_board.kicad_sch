@@ -1582,8 +1582,8 @@
     (uuid ff12f48a-689e-42c4-986a-160df81b95a4)
   )
 
-  (text "Notes: \n - Move battery charging off board\n - Minimum would be microcontroller and motor contoller\n - 3.3 Operating voltage\n - SPI Flash for high memory kalmaan potential. \n\n"
-    (at 13.97 29.21 0)
+  (text "Notes: \n - Move battery charging off board\n - Minimum would be microcontroller and motor contoller\n - 3.3 Operating voltage\n - SPI Flash for high memory kalmaan potential.\n - Encoder circuit. \n - The regulator footprint is not right. \n - Get rid of screw terminal.\n\n"
+    (at 13.97 30.48 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 30d4a5b8-34e9-412f-9d1a-e616a8a28215)
   )
