@@ -2,4 +2,6 @@
   (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
   (lib (name "ESP32-footprints-Lib")(type "KiCad")(uri "${KIPRJMOD}/ESP32-Footprints/ESP32-footprints-Lib.pretty")(options "")(descr ""))
+  (lib (name "Connectors_JST")(type "KiCad")(uri "${KIPRJMOD}/Connectors_JST.pretty")(options "")(descr ""))
+  (lib (name "adafruit")(type "KiCad")(uri "${KIPRJMOD}/SparkFun-Kicad-Libraries/adafruit.pretty")(options "")(descr ""))
 )
