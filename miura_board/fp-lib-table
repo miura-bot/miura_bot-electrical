@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "adafruit")(type "KiCad")(uri "/Users/darrenchiu/Documents/miura_bot/miura_bot-electrical/SparkFun-Kicad-Libraries/adafruit.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty")(options "")(descr ""))
+  (lib (name "ESP32-footprints-Lib")(type "KiCad")(uri "/Users/darrenchiu/Documents/miura_bot/miura_bot-electrical/ESP32-Footprints/ESP32-footprints-Lib.pretty")(options "")(descr ""))
 )
