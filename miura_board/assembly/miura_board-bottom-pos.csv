@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C15,0.1uF,C_0603_1608Metric,-90.6,-60.4,-90,bottom
+C16,0.1uF,C_0603_1608Metric,-87.9,-55.3,0,bottom
+C17,0.1uF,C_0603_1608Metric,-66.8,-71.1,90,bottom
+C26,0.1uF,C_0603_1608Metric,-92.6,-60.5,-90,bottom
+C29,2.2nF,C_0603_1608Metric,-88.6,-64.5,0,bottom
+J1,Micro_SD_Card_Det,microSD_HC_Molex_104031-0811,-72.3875,-62,-90,bottom
+R2,4.7K,R_0603_1608Metric,-77.6,-54.2,180,bottom
+U6,MPU-6050,InvenSense_QFN-24_4x4mm_P0.5mm,-86.9,-60.4,0,bottom
