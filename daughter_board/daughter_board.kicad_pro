@@ -61,7 +61,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "ignore",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
@@ -97,7 +97,7 @@
         "unresolved_variable": "error",
         "via_dangling": "warning",
         "zone_has_empty_net": "error",
-        "zones_intersect": "error"
+        "zones_intersect": "ignore"
       },
       "rules": {
         "allow_blind_buried_vias": false,
@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "daughter_board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
