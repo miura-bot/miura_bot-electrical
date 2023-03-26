@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/darrenchiu/Documents/miura_bot/miura_bot-electrical/daughter_board/daughter_board.kicad_sch</source>
-    <date>Wednesday, March 01, 2023 at 01:47:19 PM</date>
+    <source>/Users/darrenchiu/Documents/miura_bot/miura_bot-electrical/motor_board/motor_board.kicad_sch</source>
+    <date>Wednesday, March 22, 2023 at 05:56:15 PM</date>
     <tool>Eeschema (6.0.2-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>daughter_board.kicad_sch</source>
+        <source>motor_board.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -33,7 +33,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C106254"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>73dd0ac9-8faf-4b19-b289-835271bd4d8c</tstamps>
     </comp>
@@ -46,7 +46,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C106201"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c9c0d85-39dc-40c5-b9b9-81e88f95e20f</tstamps>
     </comp>
@@ -59,7 +59,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C106254"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>13ccdf41-6b33-427c-9e59-fcaff1a96ca4</tstamps>
     </comp>
@@ -72,7 +72,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C106201"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>037d513a-002a-445c-ad2a-b9ff47ba03ac</tstamps>
     </comp>
@@ -85,7 +85,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C141382"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a4649f24-d20d-45cd-afcf-e14e3a6451b5</tstamps>
     </comp>
@@ -98,7 +98,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C141382"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4957237-a7c2-4e1e-ad01-0bf63aaeb473</tstamps>
     </comp>
@@ -111,7 +111,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C141382"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0126f4a3-1d01-4531-b6c5-da13c283f3b9</tstamps>
     </comp>
@@ -124,7 +124,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C76594"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5683cdde-5901-4c04-93f5-eb9609b5fcaf</tstamps>
     </comp>
@@ -137,7 +137,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C87148"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b490894c-e361-449a-9352-76aef06e01b7</tstamps>
     </comp>
@@ -150,7 +150,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C141382"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7ba4362f-46b1-4515-be79-4378bdf47a81</tstamps>
     </comp>
@@ -163,7 +163,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C141382"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6c39388b-21e9-4c26-9bbc-13b8bcf2deef</tstamps>
     </comp>
@@ -176,7 +176,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C76594"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ed180488-3f00-4638-a59e-a427f3bfea36</tstamps>
     </comp>
@@ -189,7 +189,7 @@
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="LCSC" value="C87148"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3fa83038-d492-4af7-ac44-893b07e00f12</tstamps>
     </comp>
@@ -202,16 +202,29 @@
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="LCSC" value="C273598"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>260c2460-5d53-47e2-8e62-c1abe2a40243</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C273598</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C273598"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c2c2a1f-1896-4083-a3ed-51f88a024129</tstamps>
     </comp>
     <comp ref="H1">
       <value>MountingHole_Pad</value>
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>01f18b55-48d6-4a40-88ea-e5978dc6c964</tstamps>
     </comp>
@@ -220,7 +233,7 @@
       <footprint>MountingHole:MountingHole_2.2mm_M2_DIN965_Pad</footprint>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2c882f6d-c85e-4acb-b1f1-ae2afe5fe10a</tstamps>
     </comp>
@@ -229,7 +242,7 @@
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e9a753ee-f5d5-4742-b8cc-1c57c8da4b59</tstamps>
     </comp>
@@ -238,7 +251,7 @@
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4f6a34d-d800-4ca3-b3b7-018d2a8dbd71</tstamps>
     </comp>
@@ -247,7 +260,7 @@
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>527c2d85-ae0f-4165-a658-78cdee17252e</tstamps>
     </comp>
@@ -256,7 +269,7 @@
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>01ebdb47-13b6-4c1e-b43a-18a1868190ea</tstamps>
     </comp>
@@ -265,7 +278,7 @@
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6d54c9fd-2d91-4dfe-a829-1dec0525a40f</tstamps>
     </comp>
@@ -278,7 +291,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C881322"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>312494f9-8a14-4284-aecb-61a784492fee</tstamps>
     </comp>
@@ -291,7 +304,7 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C881322"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46fd6889-ef70-4b5a-bbed-8820fe09686e</tstamps>
     </comp>
@@ -304,16 +317,29 @@
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="LCSC" value="C881401"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>39d2b11c-3392-4c2b-a33b-9fb9071d4b8b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC">C881401</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C881401"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12d92fbe-6376-409f-8e2e-9c5d66149852</tstamps>
     </comp>
     <comp ref="SW1">
       <value>SW_Push</value>
       <footprint>Button_Switch_SMD:SW_SPST_EVPBF</footprint>
       <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46278e04-9314-456c-b22e-af6f45f15026</tstamps>
     </comp>
@@ -327,7 +353,7 @@
       <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
       <property name="LCSC" value="C112161"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>62ac9c4e-0e6e-4ba9-a56a-ffbaf76e830d</tstamps>
     </comp>
@@ -341,7 +367,7 @@
       <libsource lib="Driver_Motor" part="DRV8833PW" description="Dual H-Bridge Motor Driver, TSSOP-16"/>
       <property name="LCSC" value="C50506"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6b0015e5-4e1a-45fa-b539-d74ba6f3c0a4</tstamps>
     </comp>
@@ -355,7 +381,7 @@
       <libsource lib="Driver_Motor" part="DRV8833PW" description="Dual H-Bridge Motor Driver, TSSOP-16"/>
       <property name="LCSC" value="C50506"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a62eebac-7cd4-4d87-9d67-7d9e4541ef27</tstamps>
     </comp>
@@ -368,7 +394,7 @@
       <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
       <property name="LCSC" value="C165948"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>42ab669d-92cd-4602-9351-4432874a8022</tstamps>
     </comp>
@@ -381,7 +407,7 @@
       <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
       <property name="LCSC" value="C253723"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="daughter_board.kicad_sch"/>
+      <property name="Sheetfile" value="motor_board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>05919a82-f89e-4ffe-b4f5-999349525613</tstamps>
     </comp>
@@ -662,6 +688,7 @@
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
@@ -669,7 +696,6 @@
       <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
       <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
-      <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
       <node ref="U1" pin="34" pinfunction="VCC" pintype="passive"/>
       <node ref="U1" pin="44" pinfunction="AVCC" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="UCAP" pintype="passive"/>
@@ -736,9 +762,11 @@
       <node ref="J7" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
       <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
@@ -821,125 +849,129 @@
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
     </net>
-    <net code="29" name="Net-(J3-Pad5)">
+    <net code="29" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J3-Pad5)">
       <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="BOUT2" pintype="power_out"/>
     </net>
-    <net code="30" name="Net-(J3-Pad6)">
+    <net code="31" name="Net-(J3-Pad6)">
       <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="U2" pin="7" pinfunction="BOUT1" pintype="power_out"/>
     </net>
-    <net code="31" name="Net-(J4-Pad1)">
+    <net code="32" name="Net-(J4-Pad1)">
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="AOUT2" pintype="power_out"/>
     </net>
-    <net code="32" name="Net-(J4-Pad2)">
+    <net code="33" name="Net-(J4-Pad2)">
       <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="AOUT1" pintype="power_out"/>
     </net>
-    <net code="33" name="Net-(J7-Pad1)">
+    <net code="34" name="Net-(J7-Pad1)">
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U4" pin="4" pinfunction="AOUT2" pintype="power_out"/>
     </net>
-    <net code="34" name="Net-(J7-Pad2)">
+    <net code="35" name="Net-(J7-Pad2)">
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U4" pin="2" pinfunction="AOUT1" pintype="power_out"/>
     </net>
-    <net code="35" name="Net-(J8-Pad3)">
+    <net code="36" name="Net-(J8-Pad3)">
       <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U4" pin="7" pinfunction="BOUT1" pintype="power_out"/>
     </net>
-    <net code="36" name="Net-(J8-Pad5)">
+    <net code="37" name="Net-(J8-Pad5)">
       <node ref="J8" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="U4" pin="5" pinfunction="BOUT2" pintype="power_out"/>
     </net>
-    <net code="37" name="Net-(R1-Pad1)">
+    <net code="38" name="Net-(R1-Pad1)">
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="USB1" pin="6" pinfunction="DP1" pintype="input"/>
     </net>
-    <net code="38" name="Net-(R2-Pad1)">
+    <net code="39" name="Net-(R2-Pad1)">
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="USB1" pin="7" pinfunction="DN1" pintype="input"/>
     </net>
-    <net code="39" name="RST">
+    <net code="40" name="RST">
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="40" name="SCL">
+    <net code="41" name="SCL">
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
     </net>
-    <net code="41" name="SDA">
+    <net code="42" name="SDA">
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
     </net>
-    <net code="42" name="VBUS">
+    <net code="43" name="VBUS">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="VBUS" pintype="input"/>
       <node ref="USB1" pin="2" pinfunction="VBUS" pintype="input"/>
     </net>
-    <net code="43" name="XTAL1">
+    <net code="44" name="XTAL1">
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="U1" pin="17" pinfunction="XTAL1" pintype="input"/>
       <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="44" name="XTAL2">
+    <net code="45" name="XTAL2">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="U1" pin="16" pinfunction="XTAL2" pintype="output"/>
       <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="45" name="unconnected-(U1-Pad1)">
+    <net code="46" name="unconnected-(U1-Pad1)">
       <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
-    <net code="46" name="unconnected-(U1-Pad2)">
+    <net code="47" name="unconnected-(U1-Pad2)">
       <node ref="U1" pin="2" pinfunction="UVCC" pintype="power_in+no_connect"/>
     </net>
-    <net code="47" name="unconnected-(U1-Pad36)">
+    <net code="48" name="unconnected-(U1-Pad36)">
       <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
     </net>
-    <net code="48" name="unconnected-(U1-Pad37)">
+    <net code="49" name="unconnected-(U1-Pad37)">
       <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
     </net>
-    <net code="49" name="unconnected-(U1-Pad39)">
+    <net code="50" name="unconnected-(U1-Pad39)">
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
-    <net code="50" name="unconnected-(U1-Pad40)">
+    <net code="51" name="unconnected-(U1-Pad40)">
       <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
     </net>
-    <net code="51" name="unconnected-(U1-Pad41)">
+    <net code="52" name="unconnected-(U1-Pad41)">
       <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
     </net>
-    <net code="52" name="unconnected-(U2-Pad8)">
+    <net code="53" name="unconnected-(U2-Pad8)">
       <node ref="U2" pin="8" pinfunction="nFAULT" pintype="open_collector"/>
     </net>
-    <net code="53" name="unconnected-(U4-Pad8)">
+    <net code="54" name="unconnected-(U4-Pad8)">
       <node ref="U4" pin="8" pinfunction="nFAULT" pintype="open_collector"/>
     </net>
-    <net code="54" name="unconnected-(USB1-Pad3)">
+    <net code="55" name="unconnected-(USB1-Pad3)">
       <node ref="USB1" pin="3" pinfunction="SBU2" pintype="input"/>
     </net>
-    <net code="55" name="unconnected-(USB1-Pad4)">
+    <net code="56" name="unconnected-(USB1-Pad4)">
       <node ref="USB1" pin="4" pinfunction="CC1" pintype="input"/>
     </net>
-    <net code="56" name="unconnected-(USB1-Pad5)">
+    <net code="57" name="unconnected-(USB1-Pad5)">
       <node ref="USB1" pin="5" pinfunction="DN2" pintype="input"/>
     </net>
-    <net code="57" name="unconnected-(USB1-Pad8)">
+    <net code="58" name="unconnected-(USB1-Pad8)">
       <node ref="USB1" pin="8" pinfunction="DP2" pintype="input"/>
     </net>
-    <net code="58" name="unconnected-(USB1-Pad9)">
+    <net code="59" name="unconnected-(USB1-Pad9)">
       <node ref="USB1" pin="9" pinfunction="SBU1" pintype="input"/>
     </net>
-    <net code="59" name="unconnected-(USB1-Pad10)">
+    <net code="60" name="unconnected-(USB1-Pad10)">
       <node ref="USB1" pin="10" pinfunction="CC2" pintype="input"/>
     </net>
-    <net code="60" name="unconnected-(USB1-Pad11)">
+    <net code="61" name="unconnected-(USB1-Pad11)">
       <node ref="USB1" pin="11" pinfunction="VBUS" pintype="input"/>
     </net>
-    <net code="61" name="unconnected-(Y1-Pad2)">
+    <net code="62" name="unconnected-(Y1-Pad2)">
       <node ref="Y1" pin="2" pinfunction="2" pintype="passive+no_connect"/>
     </net>
-    <net code="62" name="unconnected-(Y1-Pad4)">
+    <net code="63" name="unconnected-(Y1-Pad4)">
       <node ref="Y1" pin="4" pinfunction="4" pintype="passive+no_connect"/>
     </net>
   </nets>
